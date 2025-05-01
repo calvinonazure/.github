@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍♀️ Welcome to visit https://calvinonazure.github.io
+🙋‍♀️ Welcome to visit <a href="https://calvinonazure.github.io" target="_blank">https://calvinonazure.github.io</a>
 
 <!--
 
